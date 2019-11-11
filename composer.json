@@ -1,0 +1,16 @@
+{
+    "name": "easyswoole-rpc",
+    "description": "this is an rpc example",
+    "type": "project",
+    "license": "",
+    "require": {
+        "easyswoole/easyswoole": "3.2.6",
+        "swoole/ide-helper": "dev-master",
+        "easyswoole/rpc": "4.0.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "App/"
+        }
+    }
+}
